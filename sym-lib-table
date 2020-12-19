@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "_linear-regulators")(type "Legacy")(uri "${KIPRJMOD}/lib/_linear-regulators.lib")(options "")(descr ""))
   (lib (name "Ebyte")(type "Legacy")(uri "${KIPRJMOD}/lib/Ebyte.lib")(options "")(descr ""))
+  (lib (name "ICM")(type "Legacy")(uri "${KIPRJMOD}/icm.lib")(options "")(descr ""))
 )
